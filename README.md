@@ -136,3 +136,10 @@ As the Data Analyst, I was responsible for:
 - Identifying market trends and business insights
 - Building Power BI visualizations
 - Developing strategic recommendations based on findings
+
+---
+
+## Dashboard in Power BI
+
+<img width="1125" height="583" alt="Image" src="https://github.com/user-attachments/assets/7c97b935-4fa5-4877-8fe4-aa41109f2ca9" />
+
